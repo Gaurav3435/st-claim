@@ -1,0 +1,68 @@
+[
+    {
+        "pmid": 1,
+        "section": "intro",
+        "sentence": "A",
+        "similarity": 0.8
+    },
+    {
+        "pmid": 1,
+        "section": "intro",
+        "sentence": "B",
+        "similarity": 0.6
+    },
+    {
+        "pmid": 3,
+        "section": "discussion",
+        "sentence": "C",
+        "similarity": 0.5
+    },
+    {
+        "pmid": 4,
+        "section": "conclusion",
+        "sentence": "C",
+        "similarity": 0.5
+    },
+    {
+        "pmid": 5,
+        "section": "conclusion",
+        "sentence": "C",
+        "similarity": 0.5
+    },
+    {
+        "pmid": 6,
+        "section": "conclusion",
+        "sentence": "C",
+        "similarity": 0.5
+    },
+    {
+        "pmid": 7,
+        "section": "discussion",
+        "sentence": "C",
+        "similarity": 0.5
+    },
+    {
+        "pmid": 7,
+        "section": "method",
+        "sentence": "C",
+        "similarity": 0.5
+    },
+    {
+        "pmid": 7,
+        "section": "intro",
+        "sentence": "C",
+        "similarity": 0.5
+    },
+    {
+        "pmid": 7,
+        "section": "conclusion",
+        "sentence": "C",
+        "similarity": 0.5
+    },
+    {
+        "pmid": 1,
+        "section": "conclusion",
+        "sentence": "C",
+        "similarity": 0.5
+    }
+]
